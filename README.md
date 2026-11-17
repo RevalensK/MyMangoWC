@@ -18,3 +18,5 @@ A little list of all the software i use to combine with Mango <br>
 ## Wallpapers
 
 You can find a varity of wallpaper i use everyday
+
+### Fastfetch config <a href='https://github.com/RevalensK/myfastfetchconfig'> link here </a>
