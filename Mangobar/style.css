@@ -1,0 +1,13 @@
+/*CSS config file by revalensk*/
+* {
+    font-family: "Maple Mono NF CN";
+    font-size: 15px;
+}
+
+* {
+    color: #96BCD6;
+    background-color: #000000;
+    padding: 0px 10px;
+    margin: 5px 1px;
+    border-radius: 0px;
+}
