@@ -12,7 +12,7 @@ A little list of all the software i use to combine with Mango <br>
 **notifications**= *swaync* <br>
 **wallpaper**= *swaybg* <br>
 **Terminal**= *kitty* <br>
-**File Manager** = *dolphin*
+**File Manager** = *dolphin* <br>
 **screenshot** = *xfce4-screenshooter* <br>
 
 ## Wallpapers
