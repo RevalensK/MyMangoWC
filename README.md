@@ -3,7 +3,7 @@ These files are all the dotfiles i use with Mangowc, fell free to use which one 
 
 <img title="screenshot" src="/misc/helloyou.png">
 
-# Software i use
+## Software i use
 
 **Top bar** = *mangobar* <br>
 **Application launcher** = *rofi* <br>
@@ -11,3 +11,7 @@ These files are all the dotfiles i use with Mangowc, fell free to use which one 
 **wallpaper**= *swaybg* <br>
 **Terminal**= *kitty* <br>
 **screenshot** = *xfce4-screenshooter* <br>
+
+## Wallpapers
+
+You can find a varity of wallpaper i use everyday
